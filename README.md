@@ -52,3 +52,10 @@ lowercase_str = to_lowercase(input_string)
 print("Uppercase:", uppercase_str)
 print("Lowercase:", lowercase_str)
 ```
+#### Example Console
+```cmd
+Reversed:  !dlroW ,olleH
+Substring count:  2
+Uppercase:  HELLO, WORLD!
+Lowercase:  hello, world!
+```
