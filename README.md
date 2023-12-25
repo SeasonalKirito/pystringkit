@@ -7,7 +7,7 @@ PyStringKit is a Python package that provides simple and convenient string manip
 Install PyStringKit using pip:
 
 ```bash
-pip install git+https://github.com/YourGitHubUsername/pystringkit.git
+pip install git+https://github.com/SeasonalKirito/pystringkit.git
 ```
 
 Please note that this package is not currently available on PyPI.
@@ -52,15 +52,3 @@ lowercase_str = to_lowercase(input_string)
 print("Uppercase:", uppercase_str)
 print("Lowercase:", lowercase_str)
 ```
-
-## Version Information
-
-The current version of PyStringKit is 0.1.
-
-## Contribution
-
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to create an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
